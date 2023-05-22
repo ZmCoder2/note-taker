@@ -1,1 +1,17 @@
-[{"title":"asd","text":"asd"},{"title":"tuy","text":"tuy"}]
+[
+    {
+        "title": "Study",
+        "text": "JavaScript Functions\nFor Loops\nif else statements",
+        "id": "fafecd06-deb9-46d5-9583-8d341bfeac9a"
+    },
+    {
+        "title": "To Do's",
+        "text": "Laundry\nclean room\nstudy\nHome Work\ngrocery shopping",
+        "id": "a373c113-0751-4b78-bb94-2f065bb53e26"
+    },
+    {
+        "title": "Grocery List",
+        "text": "eggs\nchicken\nmilk\nrice\ngreek yogurt\n",
+        "id": "de0e5d99-9a23-4167-aa6a-bf9cefde03b1"
+    }
+]
