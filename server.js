@@ -13,5 +13,5 @@ app.use('/', htmlRoutes)
 app.use('/api', apiRoutes)
 
 app.listen(PORT, () => {
-    console.log("listening on http://localhost:3001")
+    console.log(`listening on ${port}`)
 })
